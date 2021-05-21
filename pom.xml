@@ -41,7 +41,7 @@
 			      <region>us-east-1</region>
 			      <workers>1</workers>
 			      <workerType>MICRO</workerType>
-			      <objectStoreV2>false</objectStoreV2>
+			      <objectStoreV2>true</objectStoreV2>
 			      <properties>
 			        <key>value</key>
 			      </properties>
